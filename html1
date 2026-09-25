@@ -1,0 +1,12 @@
+<div style="background: #111; color: white; min-height: 100vh; padding: 30px; font-family: Arial;">
+<h1 style="text-align: center; font-size: 45px; margin-bottom: 35px;">🍽️ Dinners</h1>
+<div style="max-width: 600px; margin: auto;">
+<h2 style="background: #222; padding: 18px; border-radius: 12px;">Monday:</h2>
+<h2 style="background: #222; padding: 18px; border-radius: 12px;">Tuesday:</h2>
+<h2 style="background: #222; padding: 18px; border-radius: 12px;">Wednesday:</h2>
+<h2 style="background: #222; padding: 18px; border-radius: 12px;">Thursday:</h2>
+<h2 style="background: #222; padding: 18px; border-radius: 12px;">Friday:</h2>
+<h2 style="background: #222; padding: 18px; border-radius: 12px;">Saturday:</h2>
+<h2 style="background: #222; padding: 18px; border-radius: 12px;">Sunday:</h2>
+</div>
+</div>
